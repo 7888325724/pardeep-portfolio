@@ -1,12 +1,10 @@
-
 import Link from "next/link";
-
 import { RiGithubLine } from "react-icons/ri";
 
 export const socialData = [
   {
     name: "Github",
-    link: "https://github.com/7888325724", 
+    link: "https://github.com/7888325724",
     Icon: RiGithubLine,
   },
 ];
@@ -36,4 +34,3 @@ const Socials = () => {
 };
 
 export default Socials;
-
