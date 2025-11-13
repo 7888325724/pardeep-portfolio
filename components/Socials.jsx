@@ -13,12 +13,12 @@ export const socialData = [
  
   {
     name: "Instagram",
-    link: "https://instagram.com",
+    link: "https://www.instagram.com/design_x_code_",
     Icon: RiInstagramLine,
   },
   {
     name: "Facebook",
-    link: "https://facebook.com",
+    link: "https://www.facebook.com/sukhi.singh.singh.716/",
     Icon: RiFacebookLine,
   },
   
