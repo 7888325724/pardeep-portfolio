@@ -2,7 +2,7 @@ import Link from "next/link";
 
 import {
   RiYoutubeLine,
-  RiInstagramLine,
+  RiInstagramLine,    
   RiFacebookLine, 
   RiDribbbleLine,
   RiGithubLine,
