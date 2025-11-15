@@ -30,7 +30,7 @@ const Socials = () => {
     <div className="flex items-center gap-x-5 text-lg">
       {socialData.map((social, i) => (
         <Link
-          key={i}
+          key={i}       
           title={social.name}
           href={social.link}
           target="_blank"
