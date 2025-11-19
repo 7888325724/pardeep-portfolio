@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
         <title>Deep | Portfolio</title>
         <meta
           name="description"
-          content="Pardeep Singh Matharu is a Graphic Designer with 1+ years of experience."
+          content="Pardeep Singh is a Graphic Designer with 1+ years of experience."
         />
         <meta
           name="keywords"
