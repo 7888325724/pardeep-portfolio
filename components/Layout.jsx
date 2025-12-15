@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
         <meta name="theme-color" content="#f13024" />
       </Head>
 
-      <TopLeftImg />
+      <TopLeftImg />    
       <Nav />
       <Header />
 
